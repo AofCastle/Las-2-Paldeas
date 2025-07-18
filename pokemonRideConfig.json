@@ -505,7 +505,7 @@
         "stamina": 850
       },
       "tauros": {
-        "formName": "paldean aqua",
+        "formName": "paldea-aqua",
         "mountType": [
           "WALK"
         ],
@@ -525,7 +525,7 @@
         "stamina": 1000
       },
       "TAuros": {
-        "formName": "paldean blaze",
+        "formName": "paldea-blaze",
         "mountType": [
           "WALK"
         ],
@@ -545,7 +545,7 @@
         "stamina": 1000
       },
       "Tauros": {
-        "formName": "paldean combat",
+        "formName": "paldea-combat",
         "mountType": [
           "WALK"
         ],
@@ -4273,11 +4273,11 @@
   ],
   "ridingOffSet": [
     0.0,
-    1.6,
+    1.9,
     0.0
   ],
-  "speedModifier": 1.7,
-  "stamina": 900
+  "speedModifier": 1.9,
+  "stamina": 1200
 },
   "METAgross": {
     "formName": "mega",

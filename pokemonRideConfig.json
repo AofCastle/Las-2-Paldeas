@@ -505,7 +505,7 @@
         "stamina": 850
       },
       "tauros": {
-        "formName": "paldean aqua",
+        "formName": "paldea-aqua",
         "mountType": [
           "WALK"
         ],
@@ -525,7 +525,7 @@
         "stamina": 1000
       },
       "TAuros": {
-        "formName": "paldean blaze",
+        "formName": "paldea-blaze",
         "mountType": [
           "WALK"
         ],
